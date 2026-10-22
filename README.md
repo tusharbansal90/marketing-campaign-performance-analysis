@@ -72,7 +72,7 @@ Created an interactive dashboard featuring:
 
 
 **Google Data Studio / Looker Studio Dashboard**
-[Open Interactive Dashboard]([PASTE_YOUR_SHAREABLE_DASHBOARD_LINK_HERE](https://datastudio.google.com/reporting/2c39a3f1-9aa1-4b13-831a-5da726c74954))
+[Open Interactive Dashboard](https://datastudio.google.com/reporting/2c39a3f1-9aa1-4b13-831a-5da726c74954))
 
 
 ## Key Analytical Questions
